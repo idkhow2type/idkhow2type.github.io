@@ -1,8 +1,2 @@
-# Oi hi there mae
-txt in case no work
-<style>
-    body{
-        background: #333;
-        color: white;
-    }
-</style>
+# Greetings, fellow human
+I am not creative enough to write this rn
