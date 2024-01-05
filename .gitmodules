@@ -1,3 +1,6 @@
 [submodule "k10a1-20.11.2022"]
 	path = k10a1-20.11.2022
 	url = https://github.com/idkhow2type/k10a1-20.11.2022.git
+[submodule "spelling-practice"]
+	path = spelling-practice
+	url = https://github.com/idkhow2type/spelling-practice.git
