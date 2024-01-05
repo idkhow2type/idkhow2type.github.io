@@ -4,3 +4,6 @@
 [submodule "spelling-practice"]
 	path = spelling-practice
 	url = https://github.com/idkhow2type/spelling-practice.git
+[submodule "color-guesser"]
+	path = color-guesser
+	url = https://github.com/idkhow2type/color-guesser.git
