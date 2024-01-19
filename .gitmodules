@@ -7,3 +7,6 @@
 [submodule "color-guesser"]
 	path = color-guesser
 	url = https://github.com/idkhow2type/color-guesser.git
+[submodule "wikism"]
+	path = wikism
+	url = https://github.com/idkhow2type/wikism.git
